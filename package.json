@@ -1,0 +1,23 @@
+{
+  "name": "regexps",
+  "version": "0.1.0",
+  "description": "collection of regexps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tetsuo/regexps.git"
+  },
+  "keywords": [
+    "regexp",
+    "regexps"
+  ],
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetsuo/regexps/issues"
+  },
+  "homepage": "https://github.com/tetsuo/regexps"
+}
