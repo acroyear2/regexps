@@ -1,0 +1,7 @@
+{
+	"name": "regexps",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	]
+}
